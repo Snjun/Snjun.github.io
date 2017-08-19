@@ -31,8 +31,8 @@ Snjun.github.io(这里是项目名)
 
 © 2015~2017 A [Snjun](http://snjun.me/)'s [snjun.github.io](https://github.com/snjun/snjun.github.io/).  This code is distributed under the MIT license. See `LICENSE` in this directory.
 
-[AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer) Copyright (c) 2016 Jason Park
+[技术名](https://github.com/) Copyright (c) 2016 作者
 
-[Regexper](https://github.com/javallone/regexper-static) Copyright (c) 2014 Jeffrey Avallone
+[技术名](https://github.com/) Copyright (c) 2014 作者
 
-[Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) Copyright 2017 Kamran Ahmed
+[技术名](https://github.com/) Copyright (c) 2017 作者
