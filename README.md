@@ -7,8 +7,8 @@ Snjun.github.io(这里是项目名)
 *******
 [](#作者信息)
 [](#也就是关于我)
-### Author :  Snjun
-### E-mail :  m1356997@sina.com
+### Author : Snjun
+### E-mail : m1356997@sina.com
 *******
 
 ## 说明文档的目录
