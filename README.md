@@ -26,3 +26,5 @@ Snjun.github.io(这里是项目名)
 (参考和技术等)
 
 ## License许可
+
+[![Snjun](https://img.shields.io/travis/rust-lang/rust.svg)](http://snjun.me/)
