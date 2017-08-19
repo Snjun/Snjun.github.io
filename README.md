@@ -28,3 +28,4 @@ Snjun.github.io(这里是项目名)
 ## License许可
 
 [![Snjun](https://img.shields.io/travis/rust-lang/rust.svg)](http://snjun.me/)
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=plastic)](http://snjun.me/)
