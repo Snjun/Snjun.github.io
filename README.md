@@ -26,7 +26,7 @@ Snjun.github.io(这里是项目名)
 (参考和技术等)
 
 ## License许可
----
+
 [![Snjun](https://img.shields.io/travis/rust-lang/rust.svg)](http://snjun.me/)
 
 © 2015~2017 A [Snjun](http://snjun.me/)'s [snjun.github.io](https://github.com/snjun/snjun.github.io/).  This code is distributed under the MIT license. See `LICENSE` in this directory.
