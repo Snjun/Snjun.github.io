@@ -22,10 +22,8 @@ Snjun.github.io(这里是项目名)
 ## 备注
 (注意事项)
 
-## 鸣谢
-(参考和技术等)
-
 ## License许可
+(鸣谢,参考和技术等)
 
 [![Snjun](https://img.shields.io/travis/rust-lang/rust.svg)](http://snjun.me/)
 
